@@ -6,3 +6,6 @@ what	the	Desktop	does
 
 #Laura’s comments: 
 blah..blah…blah
+
+Elliot's comments:
+sorry didn't realize we had to do this
