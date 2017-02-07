@@ -9,3 +9,6 @@ blah..blah…blah
 
 Elliot's comments:
 sorry didn't realize we had to do this
+
+Isaac's Comment: Editing this README!!! 02/06/2017
+
