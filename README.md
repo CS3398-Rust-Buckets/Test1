@@ -10,4 +10,9 @@ blah..blah…blah
 Elliot's comments:
 sorry didn't realize we had to do this
 
+<<<<<<< HEAD
+Laura_readme_content
+testing
+=======
 testing.testing
+>>>>>>> refs/remotes/origin/Trey's-space
